@@ -1,0 +1,24 @@
+body {
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+#tableContainer {
+  margin: 0 auto;
+  padding: 10px;
+  width: 100%;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+}

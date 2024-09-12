@@ -1,0 +1,5 @@
+/blog/* https://blog.my.domain/:splat
+/isl-website https://www.google.com
+/isl-demo-video https://www.youtube.com
+/parcel-telematic-website https://www.google.com
+/hackspiere-github https://github.com/Saptarshi-Chakraborty/hackspire-24-geovoice-crew
